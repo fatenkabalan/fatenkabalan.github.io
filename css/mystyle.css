@@ -1,0 +1,45 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+img {
+  width: "30";
+  height: "24";
+}
+.backgroundimage {
+  background-image: url("../image/Untitled\ design1.png");
+  height: 600px;
+  width: 1280px;
+  margin-top: 58px;
+}
+h2 {
+  color: gray;
+  background-color: rgb(179, 169, 165);
+  text-transform: uppercase;
+}
+p {
+  color: gray;
+}
+h5 {
+  color: rgb(80, 77, 77);
+  font-weight: bold;
+}
+ul {
+  color: gray;
+}
+.card {
+  margin-bottom: 20px;
+}
+footer {
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+  bottom: 0;
+  width: 100%;}
+  .icons {
+    display: inline-block;
+}
+.icons img {
+    width: 30px; /* Adjust icon size */
+    margin: 0 10px;} /* Space between 
